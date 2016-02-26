@@ -1,0 +1,6 @@
+file location:
+    records.xml and dblp.xml: root directory of eclipse
+    resources file locations: Web-Content
+remember to check if files in /home/lunwenh/eclipse_workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/Lab3WebInterface/ has updated
+if getResourcesAsStream() does work, try to delete the server and start a new one. This is a bug of tomcat.
+or Window->show view->other->server->servers, right click on server and clean

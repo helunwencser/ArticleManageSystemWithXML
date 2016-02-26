@@ -1,0 +1,1 @@
+doc("records.xml")/dblp/article[year>2010]
